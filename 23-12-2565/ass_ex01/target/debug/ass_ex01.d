@@ -1,0 +1,1 @@
+C:\Users\pongk\OneDrive\ -\ kmutnb.ac.th\Desktop\ลิ้งค์\2-2565\Clone_By_PJojo\Rust_Link\ass_ex01\target\debug\ass_ex01.exe: C:\Users\pongk\OneDrive\ -\ kmutnb.ac.th\Desktop\ลิ้งค์\2-2565\Clone_By_PJojo\Rust_Link\ass_ex01\src\main.rs
